@@ -1,75 +1,108 @@
-# 👋 Hey there, I'm Sanjay Adtani!
+# 👋 Hey there! I'm Sanjay Adtani
 
-### 🚀 Aspiring Full-Stack Developer | AI Enthusiast | Future MAANG Engineer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%26+Problem+Solver;Always+Learning+Something+New&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
+
+## 🚀 About Me
+
+I'm a passionate developer who loves turning ideas into reality through code. Whether it's building scalable applications, exploring new technologies, or solving complex problems, I'm always excited to dive into the next challenge.
+
+- 🔭 Currently working on exciting projects that push the boundaries of what's possible
+- 🌱 Continuously learning and exploring emerging technologies
+- 💡 Always open to collaborating on innovative ideas and open-source projects
+- 📫 Let's connect and build something amazing together!
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjay-adtani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-adtani&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-adtani&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjay-adtani&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+</div>
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-adtani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/sanjay-adtani">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=your-awesome-project&theme=radical" />
+  </a>
+  <a href="https://github.com/sanjay-adtani">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=another-cool-project&theme=radical" />
+  </a>
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayadtani/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-adtani)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+
+</div>
+
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjay-adtani&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
-🌱 Currently diving deep into:
-- **Frontend**: JavaScript, TypeScript, React, Next.js
-- **Backend**: Node.js, NestJS, PostgreSQL, Docker
-- **Styling**: SCSS, TailwindCSS
-- **AI/ML**: OpenAI APIs, Gemini AI, Voice Assistants
-- **Dev Tools**: Vite, Git, Zustand, Clerk
-
-🧠 Learning daily with a mission to build **intelligent, scalable, and beautiful software**.
-
----
-
-## 🔥 My Latest Experiments
-
-- 🤖 [AI Healthbot Voice Agent](https://github.com/sanjay-adtani/ai-healthbot-voice-agent):  
-  A voice-enabled health assistant powered by OpenAI that interacts like a virtual doctor.
-
-- 💬 [AI Chatbot Customizer](https://github.com/sanjay-adtani/ai-chatbot):  
-  Create your own personalized chatbot with custom training prompts and behaviors.
-
-- 📲 More coming soon! Follow to stay updated.
-
----
-<!--
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-adtani&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-adtani&layout=compact&theme=radical" height="160" />
-</p>
-
----
--->
-
-## 🧰 Toolbox
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)  
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) -->
-
----
-
-## 📌 Goals for 2025-2026
-
-- ✅ Master full-stack development
-- 🔬 Build innovative AI products
-- 🧑‍🏫 Share knowledge & build community
-<!--- 🌐 Contribute to open-source regularly
- - 💼 Land a role at a **MAANG** company -->
-
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanjayadtani/)
-- 🧠 [GitHub](https://github.com/sanjay-adtani)
-- 📽️ [YouTube](https://www.youtube.com/@sanjayadtani)
-
----
-
-> “Code is not just about syntax. It's about solving real problems with elegance and intent.”
-
----
-
-⭐️ _If you like my projects, feel free to follow, fork, or connect — I’m always open to collaboration!_
+<div align="center">
+  <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
+  <p>💡 <i>Open to collaborations and always excited to work on innovative projects!</i></p>
+</div>
