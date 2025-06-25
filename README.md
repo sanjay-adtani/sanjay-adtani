@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Sanjay Adtani
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;+%26+%26+Passionate+Developer+%26+Problem+Solver+%26+%26+%26+%26+;Always+Learning+Something+New&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;+%26+%26+Passionate+Developer+%26+Problem+Solver;Always+Learning+Something+New&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## 🚀 About Me
