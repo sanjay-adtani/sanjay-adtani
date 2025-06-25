@@ -26,15 +26,16 @@
 - 📲 More coming soon! Follow to stay updated.
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sanjay-adtani&show_icons=true&theme=radical" height="160" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-adtani&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-adtani&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
+-->
 
 ## 🧰 Toolbox
 
@@ -52,9 +53,10 @@
 
 - ✅ Master full-stack development
 - 🔬 Build innovative AI products
+- 🧑‍🏫 Share knowledge & build community
 <!--- 🌐 Contribute to open-source regularly
  - 💼 Land a role at a **MAANG** company -->
-- 🧑‍🏫 Share knowledge & build community
+
 
 ---
 
