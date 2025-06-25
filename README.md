@@ -58,11 +58,13 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-adtani&theme=radical" alt="GitHub Streak"/>
 </div>
 -->
+<!--
 ## 🏆 GitHub Trophies
-
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjay-adtani&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
 </div>
+-->
 
 ## 🔥 Contribution Graph
 
