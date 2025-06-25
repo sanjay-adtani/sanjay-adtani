@@ -13,6 +13,17 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 - 💡 Always open to collaborating on innovative ideas and open-source projects
 - 📫 Let's connect and build something amazing together!
 
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/sanjay-adtani/ai-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-chatbot&theme=radical" />
+  </a>
+  <a href="https://github.com/sanjay-adtani/ai-healthbot-voice-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-healthbot-voice-agent&theme=radical" />
+  </a>
+</div>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -64,25 +75,14 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-adtani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/sanjay-adtani/ai-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-chatbot&theme=radical" />
-  </a>
-  <a href="https://github.com/sanjay-adtani/ai-healthbot-voice-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-healthbot-voice-agent&theme=radical" />
-  </a>
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayadtani/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-adtani)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay.adtani01@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)-->
 
 </div>
 
