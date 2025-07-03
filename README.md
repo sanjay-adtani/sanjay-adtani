@@ -85,7 +85,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 
 ### 🧩 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sanjayadtani?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sanjayadtani?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="100%" />
 </div>
 
 <!--
