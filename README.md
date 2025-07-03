@@ -83,6 +83,12 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 
 </div>
 
+### 🧩 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sanjayadtani?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<!--
 ## 💭 Quote of the Day
 
 <div align="center">
@@ -101,3 +107,4 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
   <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
   <p>💡 <i>Open to collaborations and always excited to work on innovative projects!</i></p>
 </div>
+-->
