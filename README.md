@@ -16,11 +16,11 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sanjay-adtani/ai-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-chatbot&theme=radical" />
-  </a>
   <a href="https://github.com/sanjay-adtani/ai-healthbot-voice-agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-healthbot-voice-agent&theme=radical" />
+  </a>
+  <a href="https://github.com/sanjay-adtani/ai-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay-adtani&repo=ai-chatbot&theme=radical" />
   </a>
 </div>
 
